@@ -20,8 +20,8 @@ var AllRoomMessages = [
     },
   
     {
-        regex: /USERNAME/gim,
-        text: " > That person is awesome",
+        regex: /ewelinawilkosz2/gim,
+        text: " > That person is awesome, and always hungry",
     },
     {
         regex: /fruit/gim,
